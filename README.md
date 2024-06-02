@@ -1,3 +1,3 @@
-This is my final project as a student in the computer science course of my high scool park hamada.
-in this project i built a graphic simulation of a board game called R.O.T.A, and created agent with
-different kinds of methods to play the game.
+This is my final project as a student in the computer science course at my high school Park Hamada.
+in this project, I built a graphic simulation of a board game called R.O.T.A and created agents with
+different kinds of methods, from classic algorithms like min-max to neural networks, that can play the game (and win).
